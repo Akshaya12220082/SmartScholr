@@ -104,7 +104,7 @@ Clusters students based on behavioral data (e.g., time spent per subject, test s
 | 💬 GenAI (Optional) | OpenAI GPT-3.5/4, LangChain, T5/BART         |
 | 🧾 Database   | SQLite (or Firebase for future scalability)       |
 | 📊 Visualization | Matplotlib, Seaborn, Plotly                    |
-| 🧰 Deployment | Streamlit Cloud / Hugging Face Spaces (optional) |
+| 🧰 Deployment | Streamlit Cloud / Hugging Face Spaces             |
 
 ---
 
